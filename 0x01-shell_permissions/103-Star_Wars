@@ -1,2 +1,2 @@
 #!/bin/bash
-python3 starwars.py:wq
+telnet towel.blinkenlights.nl
